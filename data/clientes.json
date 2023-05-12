@@ -1,0 +1,38 @@
+ [
+    {
+      "nombre": "Juan Pérez",
+      "foto": "https://ejemplo.com/fotos/juan_perez.jpg",
+      "descripcion": "Desarrollo de un sitio web corporativo para su empresa. Requiere un diseño moderno y atractivo con funcionalidades personalizadas."
+    },
+    {
+      "nombre": "María López",
+      "foto": "https://ejemplo.com/fotos/maria_lopez.jpg",
+      "descripcion": "Proyecto de tienda en línea para vender productos de moda. Necesita integración con pasarelas de pago y gestión de inventario."
+    },
+    {
+      "nombre": "Carlos Ramírez",
+      "foto": "https://ejemplo.com/fotos/carlos_ramirez.jpg",
+      "descripcion": "Desarrollo de una plataforma de aprendizaje en línea. Requiere un sistema de registro de usuarios y administración de cursos."
+    },
+    {
+      "nombre": "Ana Sánchez",
+      "foto": "https://ejemplo.com/fotos/ana_sanchez.jpg",
+      "descripcion": "Diseño y desarrollo de un blog personal. Necesita un diseño creativo y funcionalidades para compartir contenido y comentarios."
+    },
+    {
+      "nombre": "Pedro Rodríguez",
+      "foto": "https://ejemplo.com/fotos/pedro_rodriguez.jpg",
+      "descripcion": "Rediseño de un sitio web existente para mejorar la usabilidad y el rendimiento. Requiere optimización SEO y responsive design."
+    },
+    {
+      "nombre": "Laura Gómez",
+      "foto": "https://ejemplo.com/fotos/laura_gomez.jpg",
+      "descripcion": "Desarrollo de una aplicación web para gestionar proyectos. Necesita una interfaz intuitiva y herramientas de colaboración."
+    },
+    {
+      "nombre": "Javier Torres",
+      "foto": "https://ejemplo.com/fotos/javier_torres.jpg",
+      "descripcion": "Creación de un sitio web para un restaurante. Requiere un menú interactivo, reservas en línea y una galería de imágenes."
+    }
+]
+

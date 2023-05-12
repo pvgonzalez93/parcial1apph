@@ -1,0 +1,66 @@
+/* NAV */
+nav {
+    background-color: #333;
+    color: #fff;
+    height: 50px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+  }
+  
+  nav ul li {
+    height: 100%;
+  }
+  
+  nav ul li a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555;
+  }
+  
+  /*TEXTO*/
+
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1rem;
+}
+
+/*form*/
+form {
+  filter: grayscale(100%);
+}
+
+form label {
+  color: #d12020;
+}
+
+form input[type="text"],
+form textarea,
+form input[type="url"] {
+  background-color: #fff;
+  color: #000;
+}
+
+form input[type="submit"] {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+}
+
+form input[type="submit"]:hover {
+  background-color: #000;
+  color: #fff;
+}

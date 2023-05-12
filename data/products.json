@@ -1,0 +1,314 @@
+[
+    {
+      "id": 1,
+      "name": "Tienda en línea de ropa",
+      "description": "Una aplicación para comprar ropa en línea desde la comodidad de tu hogar.",
+      "link": "http://miweb.com/tienda",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React Native",
+        "Node.js"
+      ],
+      "section": "mobile"
+    },
+    {
+      "id": 2,
+      "name": "Juego de aventura en 2D",
+      "description": "Un juego de aventura en el que los jugadores tienen que avanzar a través de niveles y superar obstáculos.",
+      "link": "http://miweb.com/juego",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Unity",
+        "C#"
+      ],
+      "section": "mobile"
+    },
+    {
+      "id": 3,
+      "name": "Aplicación de notas",
+      "description": "Una aplicación para tomar notas y mantener un registro de tareas pendientes.",
+      "link": "http://miweb.com/notas",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React Native",
+        "Firebase"
+      ],
+      "section": "mobile"
+    },
+    {
+      "id": 4,
+      "name": "Guía turística",
+      "description": "Una aplicación para turistas que incluye información sobre atracciones turísticas y eventos locales.",
+      "link": "http://miweb.com/guia",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React Native",
+        "MongoDB"
+      ],
+      "section": "mobile"
+    },
+    {
+      "id": 5,
+      "name": "Reproductor de música",
+      "description": "Una aplicación para escuchar música en línea y descargar canciones para escuchar sin conexión.",
+      "link": "http://miweb.com/musica",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React Native",
+        "Node.js"
+      ],
+      "section": "mobile"
+    },
+    {
+      "id": 6,
+      "name": "Landing page para empresa de marketing digital",
+      "description": "Una página de aterrizaje para una agencia de marketing digital que ofrece servicios de SEO, publicidad en redes sociales y diseño web.",
+      "link": "http://miweb.com/marketing",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "section": "landing"
+    },
+    {
+      "id": 7,
+      "name": "Landing page para empresa de moda",
+      "description": "Una página de aterrizaje para una marca de ropa que ofrece ropa de alta calidad a precios accesibles.",
+      "link": "http://miweb.com/moda",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Vue.js",
+        "Node.js",
+        "MongoDB"
+      ],
+      "section": "landing"
+    },
+    {
+      "id": 8,
+      "name": "Landing page para empresa de alimentos",
+      "description": "Una página de aterrizaje para una empresa de alimentos que ofrece productos orgánicos y saludables.",
+      "link": "http://miweb.com/alimentos",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Angular",
+        "Node.js",
+        "Firebase"
+      ],
+      "section": "landing"
+    },
+    {
+      "id": 9,
+      "name": "Landing page para empresa de viajes",
+      "description": "Una página de aterrizaje para una agencia de viajes que ofrece paquetes turísticos a destinos exóticos y únicos.",
+      "link": "http://miweb.com/viajes",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MySQL"
+      ],
+      "section": "landing"
+    },
+    {
+      "id": 10,
+      "name": "Landing page para empresa de tecnología",
+      "description": "Una página de aterrizaje para una empresa de tecnología que ofrece soluciones de software personalizadas para empresas.",
+      "link": "http://miweb.com/tecnologia",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "section": "landing"
+    },
+    {
+      "id": 11,
+      "name": "Sistema de gestión de tareas",
+      "description": "Una aplicación web para gestionar tareas y proyectos en equipo.",
+      "link": "http://miweb.com/gestion-de-tareas",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "section": "web"
+    },
+    {
+      "id": 12,
+      "name": "Plataforma de educación en línea",
+      "description": "Una aplicación web para tomar cursos en línea y obtener certificaciones.",
+      "link": "http://miweb.com/educacion-en-linea",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Angular",
+        "Node.js",
+        "MySQL"
+      ],
+      "section": "web"
+    },
+    {
+      "id": 13,
+      "name": "Sistema de reservas para hoteles",
+      "description": "Una aplicación web para gestionar reservas en un hotel, incluyendo habitaciones, servicios y pagos.",
+      "link": "http://miweb.com/reservas-para-hoteles",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Vue.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "section": "web"
+    },
+    {
+      "id": 14,
+      "name": "Sistema de gestión de ventas",
+      "description": "Una aplicación web para gestionar ventas y clientes en un negocio, incluyendo reportes y estadísticas.",
+      "link": "http://miweb.com/gestion-de-ventas",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Firebase"
+      ],
+      "section": "web"
+    },
+    {
+      "id": 15,
+      "name": "Plataforma de gestión de proyectos",
+      "description": "Una aplicación web para gestionar proyectos en equipo, incluyendo seguimiento de tareas, calendarios y chat.",
+      "link": "http://miweb.com/gestion-de-proyectos",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Angular",
+        "Node.js",
+        "MongoDB"
+      ],
+      "section": "web"
+    },
+    {
+      "id": 16,
+      "name": "Tienda de ropa en línea",
+      "description": "Una tienda virtual para comprar ropa de diferentes marcas y estilos.",
+      "link": "http://miweb.com/tienda-de-ropa",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "section": "e-commerce"
+    },
+    {
+      "id": 17,
+      "name": "Tienda de electrónica en línea",
+      "description": "Una tienda virtual para comprar dispositivos electrónicos de diferentes marcas y modelos.",
+      "link": "http://miweb.com/tienda-de-electronica",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Angular",
+        "Node.js",
+        "MySQL"
+      ],
+      "section": "e-commerce"
+    },
+    {
+      "id": 18,
+      "name": "Tienda de muebles en línea",
+      "description": "Una tienda virtual para comprar muebles de diferentes estilos y materiales.",
+      "link": "http://miweb.com/tienda-de-muebles",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Vue.js",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "section": "e-commerce"
+    },
+    {
+      "id": 19,
+      "name": "Tienda de productos orgánicos en línea",
+      "description": "Una tienda virtual para comprar alimentos y productos orgánicos de diferentes productores.",
+      "link": "http://miweb.com/tienda-de-productos-organicos",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Firebase"
+      ],
+      "section": "e-commerce"
+    },
+    {
+      "id": 20,
+      "name": "Tienda de juguetes en línea",
+      "description": "Una tienda virtual para comprar juguetes de diferentes marcas y tipos.",
+      "link": "http://miweb.com/tienda-de-juguetes",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Angular",
+        "Node.js",
+        "MongoDB"
+      ],
+      "section": "e-commerce"
+    },
+    {
+      "id": 21,
+      "name": "Puzzle Mania",
+      "description": "Resuelve los puzzles más desafiantes en diferentes niveles",
+      "link": "http://miweb.com/puzzle-mania",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Android"
+      ],
+      "section": "games"
+    },
+    {
+      "id": 22,
+      "name": "Galaxy Fighters",
+      "description": "Lucha contra los extraterrestres en una galaxia lejana",
+      "link": "http://miweb.com/galaxy-fighters",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "iOS",
+        "Android"
+      ],
+      "section": "games"
+    },
+    {
+      "id": 23,
+      "name": "Dungeon Quest",
+      "description": "Explora mazmorras oscuras y peligrosas para encontrar tesoros",
+      "link": "http://miweb.com/dungeon-quest",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "iOS",
+        "Android"
+      ],
+      "section": "games"
+    },
+    {
+      "id": 24,
+      "name": "Sports Heroes",
+      "description": "Conviértete en el campeón de deportes en diferentes disciplinas",
+      "link": "http://miweb.com/sports-heroes",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "Android"
+      ],
+      "section": "games"
+    },
+    {
+      "id": 25,
+      "name": "Zombie Apocalypse",
+      "description": "Sobrevive al apocalipsis zombie y encuentra un lugar seguro",
+      "link": "http://miweb.com/zombie-apocalypse",
+      "img": "https://picsum.photos/400/225",
+      "technologies": [
+        "iOS"
+      ],
+      "section": "games"
+    }
+  ]

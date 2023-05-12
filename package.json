@@ -1,0 +1,16 @@
+{
+  "name": "parcial-1-app-hibridas",
+  "version": "1.0.0",
+  "description": "paula gonzalez parcial 1",
+  "type": "module",
+  "scripts": {
+    "server": "cls && nodemon --ignore /data app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "mongodb": "^5.4.0",
+    "nodemon": "^2.0.22"
+  }
+}
